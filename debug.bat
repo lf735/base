@@ -1,0 +1,1 @@
+g++ src/*.cpp src/*.h -Wall -g -o bin/debug/app.exe

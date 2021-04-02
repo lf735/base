@@ -1,0 +1,1 @@
+g++ src/*.cpp src/*.h -Wall -o bin/release/app.exe

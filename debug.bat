@@ -1,1 +1,1 @@
-g++ src/*.cpp src/*.h -Wall -g -o bin/debug/app.exe
+g++ src/*.cpp src/*.h -Wall -g -o bin/debug/app.exe -L"C:\Dev\libs\SFML-2.5.1\lib" -I"C:\Dev\libs\SFML-2.5.1\include" -l"sfml-graphics-d" -l"sfml-window-d" -l"sfml-system-d"
